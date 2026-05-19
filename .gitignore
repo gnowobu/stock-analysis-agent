@@ -1,0 +1,9 @@
+# Fidelity exports — may contain account numbers and position data
+input/
+
+# Generated reports — may contain portfolio details
+reports/
+
+# Keep the folders themselves
+!input/.gitkeep
+!reports/.gitkeep
